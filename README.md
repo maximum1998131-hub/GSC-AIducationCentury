@@ -95,4 +95,4 @@ If you use or adapt these materials, attribution is appreciated.
 
 This project is developed in the context of **Global Shapers Community initiatives** related to AI and education.
 
-For collaboration or questions, please open a **Discussion** or **Issue** in this repository.
+For collaboration or questions, please open a **Discussion** or **Issue** in this repository. Or please contact maximum1998131@gmail.com
